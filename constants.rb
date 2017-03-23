@@ -1,4 +1,4 @@
-# Initialization of Constants
+# Initialization of Constants and changing value of it
 
 A_CONSTANT = 3.14
 
